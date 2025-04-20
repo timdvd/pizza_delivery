@@ -16,4 +16,4 @@
 Clone the repository:  git clone https://github.com/timdvd/pizza_delivery.git
 
 ### Preview:
-https://timdvd.github.io/car_rental_landing/
+https://timdvd.github.io/pizza_delivery/
